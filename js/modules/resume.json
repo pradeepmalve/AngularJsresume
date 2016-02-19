@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name":"Pradeep Malve",
+    "label":"Software Engineer",
+    "picture":"deepu.JPG",
+    "email":"pradeepkmalve@gmail.com",
+    "phone":" +91 8019444890",
+    "website":"https://pradeepmalve.890m.com",
+    "summary":"This is Pradeep Malve. I am Software Engineer. I am currently associated with Heresy Infotech. My main area of focus is on building responsive web and mobile applications. I majorily work with AngularJS,Ruby,Rails,Android and with momentous technologies. ",
+    "location":{
+      "address":"Tirmulgherry",
+      "postalCode":"500015",
+      "city":"Hyderabad",
+      "countryCode":"IND",
+      "region":"Telangana"
+    },
+    "profiles": [
+     
+	{
+        "network": "LinkedIn",
+        "username": "pradeepmalve",
+        "url": "https://www.linkedin.com/in/malve-pradeep-3144b48b?trk=hp-identity-name"
+      },
+	
+      {
+        "network": "google-plus",
+        "username": "pradeepmalve",
+        "url": "https://plus.google.com/u/0/108135303730453358673"
+      },
+      {
+        "network": "Github",
+        "username": "pradeepmalve",
+        "url": "https://github.com/pradeepmalve"
+      }
+    ]
+  },
+
+  "work": [
+    {
+      "company": "Heresy Infotech",
+      "position": "Developer",
+      "website": "http://heresy.in",
+      "startDate": "2016-01-11",
+      "endDate": "",
+      "summary": "We can boast of a team with experience at national and international levels. We have the right blend of experienced personnel and enthusiastic youngsters to deliver quality products on time.",
+      "highlights": [
+        
+        
+      ]
+    }
+  ],
+ 
+  "education": [
+    {
+      "institution": "Sree Chaitanya",
+      "area": "Computer Science of Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2010-10-04",
+      "endDate": "2014-05-01",
+      "gpa": "7.2",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    },
+     {
+      "institution": "Trinity Junior College",
+      "area": "M.P.C",
+      "studyType": "Intermediate",
+      "startDate": "2008-07-04",
+      "endDate": "2010-03-05",
+      "gpa": "8.1",
+      "courses": [
+        " Maths",
+        "Physics",
+        "Chemistry"
+      ]
+    },
+     {
+      "institution": "BVK High School",
+      "area": "Secondary Education",
+      "studyType": "SSC",
+      "startDate": "2007-07-04",
+      "endDate": "2008-03-05",
+      "gpa": "8.4",
+      "courses": [
+        " English",
+        "Maths"
+      ]
+    }
+  ],
+
+  
+  "skills": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "HTML/CSS,Javascript,Angular JS"
+      ]
+    },
+    {
+      "name": "Programming ",
+       "keywords": [
+        "Java,Ruby"      
+      ]
+    },
+    {
+      "name": "Operating Systems ",
+      "keywords": [
+        "windows,Linux"        
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English,Hindi,Telugu"
+    }
+
+  ],
+  "interests": [
+    {
+      "name": "Browsing",
+      "keywords": "Exploring Open-Source Technologies"
+        
+      
+    }
+  ]
+  
+}

@@ -1,0 +1,22 @@
+{
+  "name": "angular_app",
+  "description": "Simple app",
+  "main": "index.js",
+  "authors": [
+    "pradeepmalve <pradeepkmalve@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "bootswatch": "^3.3.6+1"
+  }
+}
